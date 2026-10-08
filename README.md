@@ -17,7 +17,7 @@ software developer & systems builder. building web applications, client-side enc
 </p>
 
 - **languages:** python, javascript, html5, css3, sql, shell / bash, batch
-- **technologies:** fastapi, pwa (service workers), web crypto api, argon2id, rest apis
+- **technologies:** fastapi, pwa, web crypto api, argon2id, rest apis
 - **databases:** sqlite, libsql / turso
 - **tools:** git, github actions, powershell, linux
 
