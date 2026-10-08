@@ -21,9 +21,8 @@ software developer & systems builder. building web applications, client-side enc
 - **databases:** sqlite, libsql / turso
 - **tools:** git, github actions, powershell, linux
 
-### stats & activity
+### activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=uioree&show_icons=true&theme=dark&hide_border=true&bg_color=0f141c&title_color=f8fafc&text_color=94a3b8&icon_color=6366f1" alt="uiore stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uioree&theme=dark&hide_border=true&background=0f141c&ring=6366f1&fire=6366f1&currStreakLabel=f8fafc" alt="uiore streak" height="150" />
-</p>
+<div align="left">
+  <img src="activity-graph.svg" alt="uiore activity graph" width="100%" />
+</div>
